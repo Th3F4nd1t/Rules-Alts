@@ -34,11 +34,11 @@ The following are not allowed on any part of ORE:
 9. [Scamming](#scamming-is-prohibited)
 10. [Advertising](#advertising-is-prohibited)
 11. [Running a bot](#do-not-run-any-sort-of-bot-on-ore) (i.e. an automated user/player)
-12. [Bulk collection of ORE user data](#do-not-collect-or-scrape-ore-user-data-without-explicit-opt-in-consent) (such as chat messages).
+12. [Bulk collection of ORE user data](#do-not-collect-or-scrape-ore-user-data-without-explicit-opt-in-consent) (such as chat messages)
 
 The following are not allowed on the survival server:
 
-1. [Using hacks or mods which give an unfair advantage, such as x-ray or fly hacks](#do-not-use-hacks-on-the-survival-server).
+1. [Using hacks or mods which give an unfair advantage, such as x-ray or fly hacks](#do-not-use-hacks-on-the-survival-server)
 
 For more specific details, read the full rules below or click on an item in the summary to jump to the corresponding rule.
 
