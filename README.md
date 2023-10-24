@@ -52,7 +52,7 @@ This includes, but is not limited to:
 - Excessively attacking someone's character
 - Ignoring a plot owner's reasonable requests
 - Stealing credit for a build
-- Threatening someone with physical harm or similar
+- Threatening harm against someone or encouraging someone else to do so
 - Doxxing.
 
 ### Don't discriminate.
