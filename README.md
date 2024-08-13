@@ -38,7 +38,7 @@ The following are not allowed on any part of ORE:
 
 The following are not allowed on the survival server:
 
-1. [Using hacks or mods which give an unfair advantage, such as x-ray or fly hacks](#do-not-use-hacks-on-the-survival-server)
+1. [Using hacks or mods which give an unfair advantage, such as x-ray or fly hacks](#client-side-modifications-usage)
 
 For more specific details, read the full rules below or click on an item in the summary to jump to the corresponding rule.
 
@@ -134,14 +134,18 @@ Sometimes, this data is already logged through some mechanism, such as Minecraft
 
 Large data applications can be fun, but that is outweighed by considerations for the privacy of our members, and so we ask that you respect them by asking for permission before using their data.
 
-### Do not use hacks on the survival server.
-Any hacks, cheats, mods, or tools which give you an unfair advantage are strictly not allowed on the survival server.
+### Client-side modifications usage.
 
-That said, you *are* allowed to use most mods/hacks when you're on the *creative* servers. Just be sure to keep [rule 8](#avoid-limiting-the-ability-of-others-to-enjoy-ore) in mind; don't use mods or hacks in a way that will harm other players' experience on the server.
+Any hacks, cheats, mods or other tools which give you an unfair advantage are strictly forbidden on the survival server.
+
+That said, you *are* allowed to use most modifications/hacks when you're on the *creative* servers of ORE. Just be sure to keep [rule 8](#avoid-limiting-the-ability-of-others-to-enjoy-ore) in mind; don't use mods or hacks in a way that will harm other players' experience on the server.
+
+Litematica usage is allowed, but due to the client-sided nature of this mod, pasting builds (which uses `/gamerule` and `/setblock` under the hood) is *not* allowed. These automated commands fill up the server's log and are otherwise restricted on ORE which means that it's mostly a disfunctional feature.
 
 # Types of Punishments
 
 There are a few different punishments which we use on ORE, they are as follows:
+
 - Warning: You are told by a staff member to avoid breaking rules in the future.
 - Kick: You are disconnected from the server but are able to rejoin immediately afterwards.
 - Timeout: You are unable to send messages in the Discord server for the duration of the punishment.
@@ -159,5 +163,5 @@ If you have been banned, you may appeal it [here](https://discourse.openredstone
 
 Make sure to follow the provided appeal format when posting your appeal. Some bans may have a condition about how long after the ban you can appeal, so make sure to double check the ban reason.
 
-# Last Updated 25th Mar 2023
+# Last Updated 13th Aug 2024
 ###### Members agree not to use our services in the development/maintenance/operation of nuclear weapon systems
