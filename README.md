@@ -142,6 +142,18 @@ That said, you *are* allowed to use most modifications/hacks when you're on the 
 
 Litematica usage is allowed, but due to the client-sided nature of this mod, pasting builds (which uses `/gamerule` and `/setblock` under the hood) is *not* allowed. These automated commands fill up the server's log and are otherwise restricted on ORE which means that it's mostly a disfunctional feature.
 
+### Alts must be rule compliant
+Any alternate accounts must:
+- Be visitor rank
+- Not have any plot associated with it
+- Must be transparent about their status as an alt, and who the main account is
+- Not be used for ban/timeout evading 
+- Follow all other rules and use common sense
+
+Any infractions will result in penalties applied to all linked accounts, regardless of whether alternate accounts are shared among multiple users. Also note that infractions on an alt may be punished more severly depending on the infraction.
+
+These rules apply to Discord and Minecraft accounts.
+
 # Types of Punishments
 
 There are a few different punishments which we use on ORE, they are as follows:
